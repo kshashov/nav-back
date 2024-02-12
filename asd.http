@@ -1,0 +1,11 @@
+POST http://localhost:8080/api/tile
+Content-Type: application/json
+
+{
+  "left": 50.0621,
+  "top": 53.2499,
+  "bottom": 53.2399,
+  "right": 50.0721
+}
+
+###
